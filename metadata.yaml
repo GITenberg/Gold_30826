@@ -4,7 +4,7 @@ contributor:
   illustrator:
     agent_name: Fogarty, Thomas
     alias: Fogarty, Thomas J.
-    birthdate: &id001 1873
+    birthdate: 1873
     deathdate: 1938
     gutenberg_agent_id: '33090'
     url: http://www.gutenberg.org/2009/agents/33090
@@ -14,13 +14,15 @@ covers:
 creator:
   author:
     agent_name: White, Stewart Edward
-    birthdate: *id001
+    birthdate: 1873
     deathdate: 1946
     gutenberg_agent_id: '247'
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
 description: Part 1 of trilogy on California dealing with the gold rush of 1849, with
   scenes laid in Panama.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30826#Gold
 gutenberg_issued: '2010-01-01'
 gutenberg_type: Text
 identifiers:
