@@ -931,7 +931,7 @@ This news caused a curious disintegration in the ship's company. We had
 heretofore lived together a good-humoured community. Now we immediately
 drew apart into small suspicious groups. For we had shortly to land
 ourselves and our goods, and to obtain transportation across the
-Isthmus, and each wanted to be ahead of his neighbour.
+Isthmus; and each wanted to be ahead of his neighbour.
 
 Here the owners of much freight found themselves at a disadvantage. I
 began to envy less the proprietors of those enormous or heavy machines
@@ -1900,7 +1900,7 @@ Native drinking houses abounded. The natives were in general a showy
 lot, but too lazy even to do a good job at fleecing the stranger within
 their gates. That was therefore undertaken--and most competently--by the
 enterprising foreigners of all nations. Foreigners kept two of the three
-hotels, as is indicated by their names--Hotel Française Fonda Americano,
+hotels, as is indicated by their names--Hotel Française, Fonda Americano,
 and the Washington House. Americans ran the gambling joints. French and
 Germans, mainly, kept the restaurants.
 
@@ -1993,7 +1993,7 @@ sufficiently. The women, I remember, had wonderful piles of glossy black
 hair, arranged in bands and puffs, in which they stuck cigars. The
 streets were very narrow. When a vehicle came along, we all had to make
 way for it; as also for the gangs of prisoners connected with heavy iron
-chains around their necks. These were very numerous; and I can hear yet,
+chains around their necks. These were very numerous; and I can hear yet
 as the leading notes of the place, the clinking of their chains, and the
 cracked jangling of some of the many cathedral bells.
 
@@ -2064,7 +2064,7 @@ chickens there at all."
 "The chills they get shakes all the feathers off'n 'em," replied Yank,
 "and then they freeze to death."
 
-In the evening the main street was a blaze of light, and the by-ways
+In the evening the main street was a blaze of light, and the byways
 were cast in darkness. The crowd was all afoot, and moved restlessly to
 and fro from one bar or gambling hell to another. Of the thousand or so
 of strangers we came in time to recognize by sight a great many. The
@@ -4366,7 +4366,7 @@ joked and sang extravagantly. Even Yank woke up and acted like a frisky
 colt. Such early wayfarers as we met, we hailed with shouts and
 chaffing; nor were we in the least abashed by an occasional surly
 response, or the not infrequent attempts to discourage our hopes. For
-when one man said there was no gold; another was as confident that the
+when one man said there was no gold, another was as confident that the
 diggings were not even scratched.
 
 The morning was a very fine one; a little chilly, with a thin white mist
@@ -4401,7 +4401,7 @@ generally uncomfortable. But Yank shook his head.
 ahead. But we don't," said he. "I've been noticing this trail pretty
 close; and I ain't seen much water except in the river; and that's an
 awful ways down. Maybe we'll find some water over the next hill, and
-maybe we won't. But we know there's water here. Then there's the
+maybe we won't. But we _know_ there's water here. Then there's the
 question of hoss thieves. McClellan strikes me as a man to be believed.
 I don't know how they act; but you bet no hoss thief gets off with my
 hoss and me watchin'. But at night it's different, I don't know how they
@@ -4660,7 +4660,7 @@ desires any of that alluring black sand.
 "I suppose we can't expect to get colour every time?" observed Johnny
 disappointedly. "Let's try her again."
 
-We tried her again; and yet again; and then some more; but always with
+We tried her again: and yet again; and then some more; but always with
 the same result. Our hands became puffed and wrinkled with constant
 immersion in the water, and began to feel sore from the continual
 stirring of the rubble.
@@ -4935,8 +4935,8 @@ his white linen, and his sombrero, but without the blue and silver
 jacket, was busily wielding a pickaxe a hundred feet or so away. His
 companion, or servant, was doing the heavier shovel work.
 
-"Why, oh, why!" breathed Johnny at last, "do you suppose, if he must
-_mine_, he doesn't buy himself a suit of dungarees or a flannel
+"Why, oh, why!" breathed Johnny at last, "do you suppose, if he _must_
+mine, he doesn't buy himself a suit of dungarees or a flannel
 shirt?"
 
 "I'll bet it's the first hard work he ever did in his life," surmised
@@ -5384,7 +5384,7 @@ boots, and not come botherin' us with them?"
 Both Barry and Jones started to reply, but Semple cut them short.
 
 "They was going to do just that," he announced, "but I persuaded them to
-bring this matter up before this meetin', because we got to begin to
+bring this matter up before this meetin' because we got to begin to
 take some measures to stop this kind of a nuisance. There's a lot of
 undesirables driftin' into this camp lately. You boys all recall how
 last fall we kep' our dust under our bunks or most anywhere, and felt
@@ -6017,7 +6017,7 @@ London appeared to be known to them from one end to the other; Berlin,
 Edinburgh, St. Petersburg even; and a host of other little fellows whose
 names I never knew before and cannot remember now. They swapped
 reminiscences of the streets; the restaurants, and the waiters and
-proprietors thereof; the alleys and by-ways, the parks and little
+proprietors thereof; the alleys and byways, the parks and little
 places. I knew, in a general way, that Johnny had done the grand tour;
 but the Italian with his gold earrings and his strong, brown,
 good-humoured peasant face puzzled me completely. How came he to be so
@@ -7287,7 +7287,7 @@ general discussion later in the evening. Don Gaspar, who owned the only
 riding saddle, unharnessed his horse, led it to water, knee haltered it,
 and turned it loose to graze. While he was gone no one spoke, but we
 glanced at each other darkly. He returned, sat down by the fire, rolled
-himself a cigarette, and volunteered his story.
+himself a cigaretto, and volunteered his story.
 
 "My fren'," said he, with a directness and succinctness utterly foreign
 to his everyday speech, "you want to know what happen'. Ver' well; it
@@ -7336,7 +7336,7 @@ and who now came hurrying up. Evidently the robbers had caught sight or
 sound of their approach. They were much interested in the state of
 affairs, examined the horse Don Gaspar had killed, searched for and
 found the body of the robber Barry had shot. It proved to be a Mexican,
-well known to them all, and suspected to be a member of Andreas Aijo's
+well known to them all, and suspected to be a member of Andreas Amijo's
 celebrated band. They inquired for the dead horse's rider.
 
 "And then, for the first time," said Don Gaspar, "we think of him. He
@@ -10779,9 +10779,8 @@ make to so bestial a dying request. Danny broke the silence incisively.
 Somebody passed up a flask. Charley raised it as high as he could, but
 was prevented by the rope from getting it quite to his lips.
 
-"You ----" he yelled at the man who held the rope.
-
-"Slack off that rope and let a man take a parting drink, can't you?"
+"You ----" he yelled at the man who held the rope. "Slack off that rope
+and let a man take a parting drink, can't you?"
 
 Amid a dead silence the rope was slacked away. Charley took a long
 drink, then hurled the half-emptied flask far out into the crowd.
@@ -10929,7 +10928,7 @@ this keeps up."
 
 We hesitated a little. The events of the day had affected us all more
 deeply than we liked to acknowledge; and nobody but Yank much liked the
-idea of again entering that bloodstained abode.
+idea of again entering that blood-stained abode.
 
 "We'd drown getting there," said Cal at last. "I move some of you
 fellows with two good arms rustle out and fix that ditch." He laughed.
